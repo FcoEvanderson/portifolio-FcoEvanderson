@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Meu repositorio no github
+        Repositorio do meu portifólio no github
       </p>
     </>
   )
